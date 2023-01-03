@@ -1,7 +1,4 @@
 module.exports = function toReadable (number) {
-// function toReadable (number) {
-  //let result = '';
-  //let resultOne = '';
 
   let zero = 'zero';
   let one ='one';
@@ -176,6 +173,3 @@ module.exports = function toReadable (number) {
   }
 
 }
-
-
-// console.log(toReadable(999));
